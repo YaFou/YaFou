@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # About me
 
 - French student
-- 
 
 [![My Statistics](https://github-readme-stats.vercel.app/api?username=YaFou&count_private=true&show_icons=true&custom_title=My+Statistics)](#)
 
